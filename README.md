@@ -1,4 +1,4 @@
-# runmat.m
+# whatsym.m
 Given a symbolic expression, outputs the symbolic variables as a cell array.
 
 ## Usage

@@ -1,6 +1,8 @@
 % Given a symbolic expression, outputs the symbolic variables as a
 % cell array.
+%
 % Example: given f(a,b,c) this function returns {a,b,c}
+% Usage:   C = whatsym(symexp)
 
 function C = whatsym(symexp)
 
